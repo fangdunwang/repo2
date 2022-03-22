@@ -1,0 +1,18 @@
+# f=open(file='G:/员工信息表.txt', mode='w')
+# f.write('蔡晓溪 行政部 12451\n')
+# f.write('张小东 采购部 215452\n')
+# f.close()
+#
+# f=open(file='G:/空姐护士兼职联系方式.txt',mode='w')
+# f.write('白飞飞 13225644521\n')
+# f.write('张晓璐 15221346521\n')
+# f.write('李依依 15236522135\n')
+# f.write('袁元 13898099801\n')
+# f.close()
+# f=open(file='G:/空姐护士兼职联系方式.txt',mode='r')
+# print(f.readline())
+# print(f.read())
+
+# f=open(file='G:/空姐护士兼职联系方式.txt',mode='a')
+# f.write('杜蕾蕾 13666638257\n')
+# f.close()
